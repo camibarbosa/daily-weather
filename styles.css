@@ -34,6 +34,7 @@ h1 {
     text-align: center;
     display: flex;
     margin-bottom: 30px;
+    color: rgba(23, 32, 35, 0.902);
     
 }
   
@@ -43,6 +44,9 @@ input {
     border-radius: 5px;
     font-size: 20px;
     width: 100%;
+    border: none;
+    width: 320px;
+    height: 60px;
 }
   
 button {
@@ -58,7 +62,7 @@ button i {
 }
   
 .content {
-    margin-top: 10px;
+    margin-top: 50px;
     justify-content: space-between;
     word-break: break-word;
 }
